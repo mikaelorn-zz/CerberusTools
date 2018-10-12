@@ -34,3 +34,8 @@
   width: 90%;
   height: 500px;
 }
+
+#uriInput {
+  width: 90%;
+  margin-bottom: 10px;
+}
